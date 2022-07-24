@@ -9,3 +9,13 @@
 .nav-bg {
   background-color: #fff;
 }
+
+.manner {
+  padding: 20px;
+}
+
+.manner:hover {
+  background-color: #f1f1f1ef;
+  border-radius: 10px;
+  cursor: pointer;
+}
